@@ -26,9 +26,9 @@
 Ready And Motivated And Got The Will To learn , hungry for knowledge ...
 
 - 📫 How to reach me:
-  -email: oudjani.sayed.taki.eddine@gmail.com , sayedesg@gmail.com ;
-  - linkdin:(https://www.linkedin.com/in/oudjani-seyyid-taqy-eddine-b964a5228)
-  -twitter(X):@OSTEsayed (https://twitter.com/OSTEsayed)
+  - Email: oudjani.sayed.taki.eddine@gmail.com , sayedesg@gmail.com ;
+  - Linkdin:(https://www.linkedin.com/in/oudjani-seyyid-taqy-eddine-b964a5228)
+  - Twitter(X):@OSTEsayed (https://twitter.com/OSTEsayed)
 <!---
 OSTEsayed/OSTEsayed is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
