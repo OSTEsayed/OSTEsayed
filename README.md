@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @OSTEsayed (Oudjani sayed taki eddine) A Programer ,web Devloper ,
   
   - Interested and studying in all The Computer sciens fields including:
-    - Networking (Have Background in Cisco {CCNA})
+    - Networking 
     - Cyber Security :
       - currently learning : IBM Cybersecurity Analyst Professional Certificate
     - web vulnerability and threats :
