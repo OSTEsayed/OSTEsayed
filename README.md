@@ -29,7 +29,8 @@
 Ready And Motivated And Got The Will To learn , hungry for knowledge ...
 
 - 📫 How to reach me(i prefer linkdin):
-  -Reddit : https://www.reddit.com/u/OSTEsayed/s/FxnSAFkx8t
+
+  - Reddit : https://www.reddit.com/u/OSTEsayed/s/FxnSAFkx8t
   - Linkdin:(https://www.linkedin.com/in/oudjani-seyyid-taqy-eddine-b964a5228)
   - Twitter(X):@OSTEsayed (https://twitter.com/OSTEsayed)
 <div align="center">
