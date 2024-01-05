@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @OSTEsayed (Oudjani seyyid taqy eddine) A Programer ,web Devloper ,
+- 👋 Hi, I’m @OSTEsayed (Oudjani seyyid taqy eddine) A Programer, web Devloper, Cyber security Specialist.  
   
   - Interested and studying in all The Computer sciens fields including:
     - Networking .
