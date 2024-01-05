@@ -1,11 +1,11 @@
 - 👋 Hi, I’m @OSTEsayed (Oudjani seyyid taqy eddine) A Programer ,web Devloper ,
   
   - Interested and studying in all The Computer sciens fields including:
-    - Networking 
+    - Networking .
     - Cyber Security :
-      - currently learning : IBM Cybersecurity Analyst Professional Certificate
-    - web vulnerability and threats :
-      -Currently creating A new Web Vulnerability scanner by combining other Famous Dast Scanners  
+      - currently learning : IBM Cybersecurity Analyst Professional Certificate.
+    - web vulnerability and threats : OSTE meta Scanner create A new Web Vulnerability scanner by combining other Famous Dast Scanners.
+    - SOC analyst automation : - Currently creating A web log Analyzer to simplify and automate the task of analyzing weblogs for threats and attacks.
     - artificial intelligence {i have background in maching Learning and Deep Learning}
     - web Application Fullstack :
       - frontend:{css ,javascript , bootstrap ,node js}
@@ -20,6 +20,7 @@
       <img align="right" width=420 height="auto" src="https://github-readme-stats.vercel.app/api?username=OSTEsayed&show_icons=true&theme=dark&border_color=61dafb&hide_border=true&include_all_commits=true" />
     </a>
 - 👀 I’m looking and available for Cyber Security Jobs fields including :
+  - SOC analyst 
   - pentration tester /ethical hacker 
   - security software developer
   - information security analyst 
